@@ -1,5 +1,5 @@
 <h1>Mini Music Player created by Sabo</h1>
-Interactive Music device application with various features, images, audios and links can be customized. Heavy HTML and JS
+Interactive Music device application with various features, images, audios and links can be customized. Heavy HTML and JS.
 <br>
 <br>
 Live App: https://miniplayer-html-app.vercel.app/
